@@ -1,3 +1,5 @@
+import os
+import webbrowser
 import asyncio
 import difflib
 import json
