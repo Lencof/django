@@ -1,5 +1,9 @@
 """Compare two HTML documents."""
 
+import os
+import webbrowser
+import color
+
 from html.parser import HTMLParser
 
 from django.utils.regex_helper import _lazy_re_compile
