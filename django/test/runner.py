@@ -1,3 +1,7 @@
+import os
+import sys
+import webbrowser
+import json
 import ctypes
 import faulthandler
 import io
