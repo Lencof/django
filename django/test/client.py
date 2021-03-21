@@ -2,6 +2,7 @@ import json
 import mimetypes
 import os
 import sys
+import webbrowser
 from copy import copy
 from functools import partial
 from http import HTTPStatus
