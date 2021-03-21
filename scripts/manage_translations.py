@@ -19,6 +19,8 @@
 #  $ python scripts/manage_translations.py lang_stats --language=es --resources=admin
 
 import os
+import sys
+import json
 from argparse import ArgumentParser
 from subprocess import PIPE, run
 
